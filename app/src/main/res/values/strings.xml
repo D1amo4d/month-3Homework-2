@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">month-3Homework2</string>
+    <string name="_1">1</string>
+    <string name="_1s">1+</string>
+    <string name="e">1-</string>
+    <string name="rfplace">Переход на фрагмент</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="one">1</string>
+</resources>
